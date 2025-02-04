@@ -1,0 +1,12 @@
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\bin\Debug\net8.0\CleanArch.Infra.deps.json
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\bin\Debug\net8.0\CleanArch.Infra.dll
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\bin\Debug\net8.0\CleanArch.Infra.pdb
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\CleanArch.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\CleanArch.Infra.AssemblyInfoInputs.cache
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\CleanArch.Infra.AssemblyInfo.cs
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\CleanArch.Infra.csproj.CoreCompileInputs.cache
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\CleanArch.Infra.sourcelink.json
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\CleanArch.Infra.dll
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\refint\CleanArch.Infra.dll
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\CleanArch.Infra.pdb
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\ref\CleanArch.Infra.dll
