@@ -12,7 +12,7 @@ namespace CleanArch.Infra
         public static void AddInfrastructure(this IServiceCollection services, IConfiguration configuration)
         {
             var connectionString = configuration.GetConnectionString("Sqlite");
-            services.AddDbContext<AppDbContext>(options => options.UseSqlite(connectionString));
+            services.AddDbContext<AppDbContext>(options => options.UseMySql(connectionString,ServerVersion.AutoDetect(connectionString)));
 
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();

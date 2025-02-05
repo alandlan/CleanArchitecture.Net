@@ -7,8 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
-    <Folder Include="Shared\Behavior\" />
     <Folder Include="Shared\Exceptions\" />
     <Folder Include="UseCases\DeleteUser\" />
     <Folder Include="UseCases\GetAllUser\" />
