@@ -8,6 +8,6 @@ namespace CleanArch.Domain.Interfaces
 {
     public interface IUnitOfWork
     {
-        Task<bool> CommitAsync(CancellationToken cancellationToken);
+        Task CommitAsync(CancellationToken cancellationToken);
     }
 }

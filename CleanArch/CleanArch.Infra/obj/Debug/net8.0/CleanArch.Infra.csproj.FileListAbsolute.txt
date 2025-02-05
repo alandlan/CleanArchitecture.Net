@@ -10,3 +10,7 @@ D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\CleanArch.Infr
 D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\refint\CleanArch.Infra.dll
 D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\CleanArch.Infra.pdb
 D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\ref\CleanArch.Infra.dll
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\bin\Debug\net8.0\CleanArch.Domain.dll
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\bin\Debug\net8.0\CleanArch.Domain.pdb
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\CleanArch.Infra.csproj.AssemblyReference.cache
+D:\Livre\CleanArch.NET\CleanArch\CleanArch.Infra\obj\Debug\net8.0\CleanArc.20BB1086.Up2Date
