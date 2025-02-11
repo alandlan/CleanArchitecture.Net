@@ -1,5 +1,7 @@
 ﻿using CleanArch.Application.UseCases.CreateUser;
+using CleanArch.Application.UseCases.DeleteUser;
 using CleanArch.Application.UseCases.GetAllUser;
+using CleanArch.Application.UseCases.UpdateUser;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -35,6 +37,32 @@ namespace CleanArch.API.Controllers
             //}
 
             var result = await _mediator.Send(request,cancellationToken);
+            return Ok(result);
+        }
+
+        [HttpPut]
+        public async Task<IActionResult> Update(UpdateUserRequest request, CancellationToken cancellationToken)
+        {
+            //var validator = new UpdateUserValidator();
+            //var validationResult = await validator.ValidateAsync(request, cancellationToken);
+            //if (!validationResult.IsValid)
+            //{
+            //    return BadRequest(validationResult.Errors);
+            //}
+            var result = await _mediator.Send(request, cancellationToken);
+            return Ok(result);
+        }
+
+        [HttpDelete]
+        public async Task<IActionResult> Delete(DeleteUserRequest request, CancellationToken cancellationToken)
+        {
+            //var validator = new DeleteUserValidator();
+            //var validationResult = await validator.ValidateAsync(id, cancellationToken);
+            //if (!validationResult.IsValid)
+            //{
+            //    return BadRequest(validationResult.Errors);
+            //}
+            var result = await _mediator.Send(request, cancellationToken);
             return Ok(result);
         }
     }
